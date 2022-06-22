@@ -1,1 +1,1 @@
-# TeplEko
+# thermostat-mobile
